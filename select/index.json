@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "泣き笑いのエピソード",
+  "base_artist": "Motohiro Hata",
+  "createdAt": "2026-02-21T04:09:03.303008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "泣き笑いのエピソード",
+      "artist": "Motohiro Hata",
+      "has_synced": false,
+      "path": "select/01_泣き笑いのエピソード_Motohiro_Hata.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "泣き笑いのエピソード",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/02_泣き笑いのエピソード_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦基博",
+      "has_synced": false,
+      "path": "select/03_泣き笑いのエピソード_秦基博.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "泣き笑いのエピソード (Live at LINE CUBE SHIBUYA / 2021)",
+      "artist": "Hata Motohiro",
+      "has_synced": true,
+      "path": "select/04_泣き笑いのエピソード_(Live_at_LINE_CUBE_SHIBUYA___2021)_Hata_Motohiro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "泣き笑いのエピソード (evergreen ver.)",
+      "artist": "Hata Motohiro",
+      "has_synced": true,
+      "path": "select/05_泣き笑いのエピソード_(evergreen_ver.)_Hata_Motohiro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "泣き笑いのエピソード (backing track)",
+      "artist": "Hata Motohiro",
+      "has_synced": true,
+      "path": "select/06_泣き笑いのエピソード_(backing_track)_Hata_Motohiro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_01_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_02_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_03_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_04_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_05_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_06_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_07_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_08_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_09_泣き笑いのエピソード_秦_基博.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "泣き笑いのエピソード [evergreen ver.]",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_10_泣き笑いのエピソード_[evergreen_ver.]_秦_基博.txt"
+    }
+  ]
+}
